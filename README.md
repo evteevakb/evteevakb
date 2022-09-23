@@ -1,1 +1,10 @@
-## Software Engineer for sociologically significant tasks
+## A Software Engineer working on socially important projects
+
+----
+
+<a href="https://www.linkedin.com/in/ksenia-evteeva/">
+  <img align="left" alt="Ksenia's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://www.researchgate.net/profile/Ksenia-Evteeva">
+  <img align="left" alt="Ksenia's LinkedIn" width="20px" src="https://simpleicons.now.sh/researchgate/495f7e" />
+</a>
