@@ -1,4 +1,4 @@
-## A Software Engineer working on socially important projects
+## Python backend developer
 
 ----
 
